@@ -10,7 +10,7 @@ int main() {
     char hashtag = '#';
     scanf("%d", &age);
     printf("My age is %d \n",age);
-    /// "/n" is used to create new line after that.
+    /// "/n" is used to create new line after that output.
     printf("Hello World, ");
     printf("Welcome to C Programming \n");
     printf("Value of pi is %f \n",pi);
